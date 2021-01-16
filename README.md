@@ -7,4 +7,5 @@
 - 🌱 I’m currently learning C, C++, Python, Javascript.
 - 📫 How to reach me: ATM you can't
 - 😄 Pronouns: He/Him
+- ⌨ My favorite OS: Arch/Debian (Go to hell Windows 10)
 - ⚡ Fun fact: I only work seriously when i am in a team!

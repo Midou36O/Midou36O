@@ -8,4 +8,4 @@
 - 📫 How to reach me: ATM you can't
 - 😄 Pronouns: He/Him
 - ⌨ My favorite OS: OpenSUSE (Go to hell Windows 10)
-- ⚡ Fun fact: I only work seriously when i am in a team!
+- ⚡ Fun fact: I only work seriously when I am in a team!

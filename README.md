@@ -7,5 +7,5 @@
 - 🌱 I’m currently learning C, C++, Python, Javascript.
 - 📫 How to reach me: ATM you can't
 - 😄 Pronouns: He/Him
-- ⌨ My favorite OS: OpenSUSE (Go to hell Windows 10)
+- ⌨ My favorite OS: Artix Linux (Go to hell Windows 10/11)
 - ⚡ Fun fact: I only work seriously when I am in a team!

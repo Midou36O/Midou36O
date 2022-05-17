@@ -8,4 +8,3 @@
 - 📫 How to reach me: @midou:projectsegfau.lt
 - ⌨ My favorite OS: Artix Linux (Go to hell Windows 10/11)
 - ⚡ Fun fact: I only work seriously when I am in a team!
-- 

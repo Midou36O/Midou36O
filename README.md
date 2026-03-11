@@ -7,3 +7,5 @@
 - ⌨ My favorite OS: Artix Linux (Go to hell Windows 10/11)
 - ⚡ Fun fact: I only work seriously when I am in a team!
 # I have nothing to talk about AAAAAAA
+
+Most of my future projects now go on https://git.linuxcrack.zip. Usually private.
